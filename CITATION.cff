@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "To cite this repository, use the information below"
+authors:
+  - family-names: Dang
+    given-names: Lisa
+    orcid: https://orcid.org/0009-0009-1477-7439
+  - family-names: Felix
+    given-names: Armando
+    orcid: https://orcid.org/0009-0006-9701-0572
+  - family-names: Robles
+    given-names: Meryll
+    orcid: https://orcid.org/0009-0007-4691-3963
+  - family-names: Shawakha
+    given-names: Walaa
+    orcid: https://orcid.org/0009-0006-3842-5292
+  - family-names: Hickerson
+    given-names: Anna
+    orcid: https://orcid.org/0000-0001-5223-6531
+title: "Survey and Motion Analysis of Individuals with and Without Hand Tremors"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15991624
+date-released: 2025-07-16
