@@ -16,9 +16,10 @@ authors:
   - family-names: Hickerson
     given-names: Anna
     orcid: https://orcid.org/0000-0001-5223-6531
-title: "Survey and Motion Analysis of Individuals with and Without Hand Tremors"
+title: "Human Computer Mouse Interaction Combining Survey Responses, Cursor Motion, and Inertial Sensor Data"
 version: 1.0.0
 identifiers:
   - type: doi
     value: 10.5281/zenodo.15991624
+
 date-released: 2025-07-16
